@@ -1,2 +1,0 @@
-# erd
-Created with CodeSandbox
